@@ -1,2 +1,3 @@
 some text
-one more line for git diff
+one more line for git diffone more line
+one more line
